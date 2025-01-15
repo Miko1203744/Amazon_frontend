@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "No Brainer (Diary of a Wimpy Kid Book 18)",
+        "price": 8.59,
+        "image": "img/v1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Cooking con Claudia: 100 Authentic, Family-Style Mexican Recipes Hardcover",
+        "price": 22.31,
+        "image": "img/am2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "jgghfgfgh",
+        "price": 200,
+        "image": "img/am3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "kkk",
+        "price": 300,
+        "image": "img/am4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "jgghfgfgh",
+        "price": 200,
+        "image": "img/m5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "kkk",
+        "price": 300,
+        "image": "img/am7.jpg"
+    },
+    {
+        "id": 7,
+        "name": "jgghfgfgh",
+        "price": 200,
+        "image": "img/am8.jpg"
+    },
+    {
+        "id": 8,
+        "name": "kkk",
+        "price": 300,
+        "image": "img/am9.jpg"
+    },
+    {
+        "id": 9,
+        "name": "kkk",
+        "price": 300,
+        "image": "img/am10.jpg"
+    },
+    {
+        "id": 10,
+        "name": "kkk",
+        "price": 300,
+        "image": "img/am11.jpg"
+    },
+    {
+        "id": 11,
+        "name": "kkk",
+        "price": 300,
+        "image": "img/am12.jpg"
+    },
+    {
+        "id": 12,
+        "name": "kkk",
+        "price": 300,
+        "image": "img/am13.jpg"
+    },
+    {
+        "id": 13,
+        "name": "kkk",
+        "price": 300,
+        "image": "img/am14.jpg"
+    },
+    {
+        "id": 14,
+        "name": "kkk",
+        "price": 300,
+        "image": "img/am15.jpg"
+    }
+]
